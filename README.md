@@ -50,9 +50,9 @@ order by crash_year
 #pgAdmin Information
 This is subject to refinement.
 These are the params.
- ##You will only be able to access the DB from the Lawrenceville Library's IP address
- Need to figure out of way!
- 
+##You will only be able to access the DB from the Lawrenceville Library's IP address
+Need to figure out of way!
+
 Hostname	db-pblotter-v1-server2.cdtmqej4olqy.us-west-2.rds.amazonaws.com
 
 Port	5432
@@ -60,6 +60,8 @@ Port	5432
 Username	CfAPGHPoliceBltr
 
 Password CfAPGH2015
+
+Database postgres
 
 in the public schema
 
