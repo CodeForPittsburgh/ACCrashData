@@ -6,6 +6,7 @@ The data is from wprdc. I download all the csv files, saved them as Excel 97-200
 
 # Create DB table
 This SQL script is no where near ideal. Numbers are double, character lengths at max, no primary key etc. So tweeking of the create table will be an upcoming task. 
+## Update: There is a new create table SQL that handles previous concerns
 
 # Needing additional tables
 If you looked at the spreadsheet that has the column descriptions you'll see what the values mean. We'll need to create related tables to support these values.
