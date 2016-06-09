@@ -1,0 +1,13 @@
+\copy ACCrashData from '2014alcocrash.csv' csv header;
+\copy ACCrashData from '2013alcocrash.csv' csv header;
+\copy ACCrashData from '2012alcocrash.csv' csv header;
+\copy ACCrashData from '2011alcocrash.csv' csv header;
+\copy ACCrashData from '2010alcocrash.csv' csv header;
+\copy ACCrashData from '2009alcocrash.csv' csv header;
+\copy ACCrashData from '2008alcocrash.csv' csv header;
+\copy ACCrashData from '2007alcocrash.csv' csv header;
+\copy ACCrashData from '2006alcocrash.csv' csv header;
+\copy ACCrashData from '2005alcocrash.csv' csv header;
+SET CLIENT_ENCODING TO Latin1;
+\copy ACCrashData from '2004alcocrash.csv' csv header;
+
