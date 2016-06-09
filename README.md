@@ -41,3 +41,8 @@ select street_name, count(street_name)
 from accrashdata
 group by street_name
 order by count(street_name) desc
+
+select crash_year, count(crash_year)
+from accrashdata
+group by crash_year
+order by crash_year
