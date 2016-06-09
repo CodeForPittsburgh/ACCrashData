@@ -47,6 +47,12 @@ from accrashdata
 group by crash_year
 order by crash_year
 
+select dec_lat,dec_long
+from accrashdata
+where bicycle = 1
+and (dec_lat > 0)
+
+
 #pgAdmin Information
 This is subject to refinement.
 These are the params.
