@@ -53,23 +53,10 @@ where bicycle = 1
 and (dec_lat > 0)
 
 
-#pgAdmin Information
-This is subject to refinement.
-These are the params.
-##You will only be able to access the DB from the Lawrenceville Library's IP address
-Need to figure out of way!
+#pgAdmin Information Update
 
-Hostname	db-pblotter-v1-server2.cdtmqej4olqy.us-west-2.rds.amazonaws.com
+The Open Pittsburgh AWS version access will be restricted since the WPRDC has uploaded the 10 years of data on their site
+https://data.wprdc.org/dataset/allegheny-county-crash-data
 
-Port	5432
-
-Username	CfAPGHPoliceBltr
-
-Password CfAPGH2015
-
-Database postgres
-
-in the public schema
-
-table name accrashdata
+Look over their API for data downloading.
 
