@@ -53,10 +53,14 @@ where bicycle = 1
 and (dec_lat > 0)
 
 
-#pgAdmin Information Update
+#Information Update
 
 The Open Pittsburgh AWS version access will be restricted since the WPRDC has uploaded the 10 years of data on their site
 https://data.wprdc.org/dataset/allegheny-county-crash-data
 
 Look over their API for data downloading.
+
+#Complete data coming
+
+I got word that Open Pittsburgh will be getting files that have more data than loaded into WPRDC. Keep a look out for the update
 
