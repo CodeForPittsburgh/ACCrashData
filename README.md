@@ -60,7 +60,8 @@ https://data.wprdc.org/dataset/allegheny-county-crash-data
 
 Look over their API for data downloading.
 
-#Complete data coming
+#Complete data arrived
 
-I got word that Open Pittsburgh will be getting files that have more data than loaded into WPRDC. Keep a look out for the update
+Open Pittsburgh has recieved 2011-2014 files that have more data than loaded into WPRDC. They are Access DBs. You will need Access to open the files. The next Open Pittsburgh goal will be to load this new data in PostgreSQL and grant user access. 
+Thanks to Ellie Newman for these updates. Stay tuned.
 
