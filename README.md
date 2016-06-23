@@ -66,7 +66,7 @@ Open Pittsburgh has received 2010-2014 files have been removed. Some data column
 
 #Access Data Update
 
-I've loaded the Access data into SQL Server 2012 as the first step of many to get the data into PostgreSQL. New text version of the All Access DB Data Dictionary has been uploaded. The next goal is to create required create SQL scripts and test load the data in the Open Pittsburgh AWS PostgreSQL account.
+The access data has been dropped from my SQL Server version pending reloading data.
 
 #Crash Data Plots
 
