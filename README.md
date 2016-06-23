@@ -62,8 +62,7 @@ Look over their API for data downloading.
 
 #Complete data arrived
 
-Open Pittsburgh has received 2010-2014 files that have more data than loaded into WPRDC. They are Access DBs. You will need Access to open the files. The next Open Pittsburgh goal will be to load this new data in PostgreSQL and grant user access. 
-Thanks to Ellie Newman for these updates. Stay tuned.
+Open Pittsburgh has received 2010-2014 files have been removed. Some data columns have to be removed before reloading. Stay tuned.
 
 #Access Data Update
 
