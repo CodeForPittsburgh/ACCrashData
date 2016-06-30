@@ -8,6 +8,14 @@ https://data.wprdc.org/dataset/allegheny-county-crash-data
 
 Look over their API for data downloading.
 
-#Crash Data Plots
+#Where do we go from here?
+##Best location for common resources
+###Source Code
+###Map Engine
+####Google
+####Open Street Map
+###Web Server
 
-Mike Feyder has added plotted examples. Check it out
+
+#Examples
+##Add your links
