@@ -13,7 +13,12 @@ Look over their API for data downloading.
 ###Map Engine
 ####Google
 ####Open Street Map
+Based on the Open Street Map guidelines it might not be a good choice
 ###Web Server
+###CardoDB
+
+It should be noted that the word accident should not be used. Crash is the required choice.
+The code has been updated on the web server, but not the code zip file (TBD)
 
 
 #Examples
