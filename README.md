@@ -18,7 +18,7 @@ Based on the Open Street Map guidelines it might not be a good choice
 ###CartoDB https://carto.com/
 
 It should be noted that the word accident should not be used. Crash is the required choice.
-The code has been updated on the web server, but not the code zip file (TBD)
+The code has been updated on the web server and in the code zip file.
 
 ##Crashes in the news
 http://www.wtae.com/news/analysis-finds-most-dangerous-intersections-in-allegheny-county/40369560
